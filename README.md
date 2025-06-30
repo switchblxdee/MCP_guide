@@ -54,7 +54,7 @@ TAVILY_API=your_tavily_api_key_here
 - **Tavily API**: Зарегистрируйтесь на [tavily.com](https://tavily.com)
 
 ### 4. Запуск проекта
-Для начала щапускаем сервер mcp_server.py
+Для начала запускаем сервер mcp_server.py
 ```bash
 python mcp_server.py 
 ```
